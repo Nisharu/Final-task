@@ -1,0 +1,3 @@
+﻿  Fug_3.cpp
+D:\Game Dev Courses\Fug_3\Fug_3\Fug_3.cpp(51,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Fug_3.vcxproj -> D:\Game Dev Courses\Fug_3\Debug\Fug_3.exe
